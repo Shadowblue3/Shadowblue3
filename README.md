@@ -30,7 +30,18 @@ Here are some ideas to get you started:
 <h1>白いコードの侍 — Shadowblue</h1>
 <p><i>"Code like a calm blade. Precise. Silent. Unstoppable."</i></p>
 
-# <div align="center">⚔️ THE WAY OF THE CODE SAMURAI ⚔️</div>
+<img src="https://raw.githubusercontent.com/Shadowblue3/Shadowblue3/main/samurai-banner.svg" alt="Samurai Coding Banner" width="100%"/>
+```
+   - Replace both instances of `YOUR_USERNAME` with your actual username
+
+### 5. **Save and View**
+   - Commit the changes
+   - Visit your GitHub profile page (github.com/YOUR_USERNAME)
+   - You should see the animated samurai banner! ⚔️
+
+**Example:** If your username is `code-ninja`, the image URL should be:
+```
+https://raw.githubusercontent.com/code-ninja/code-ninja/main/samurai-banner.svg
 
 <div align="center">
   
