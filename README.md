@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <!-- Title -->
 <h1>白いコードの侍 — Shadowblue</h1>
 <p><i>"Code like a calm blade. Precise. Silent. Unstoppable."</i></p>
+![clideo_editor_362d46ad46274453b8ddbf751fd693e1](https://github.com/user-attachments/assets/04b9cdf8-d251-4399-b9b1-f906c0d9516f)
 
-<img src="https://raw.githubusercontent.com/Shadowblue3/Shadowblue3/main/samurai-banner.svg" alt="Samurai Coding Banner" width="100%"/>
 ```
    - Replace both instances of `YOUR_USERNAME` with your actual username
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 **Example:** If your username is `code-ninja`, the image URL should be:
 ```
 
-![clideo_editor_362d46ad46274453b8ddbf751fd693e1](https://github.com/user-attachments/assets/04b9cdf8-d251-4399-b9b1-f906c0d9516f)
+
 
 <div align="center">
   
