@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 
 **Example:** If your username is `code-ninja`, the image URL should be:
 ```
-https://raw.githubusercontent.com/code-ninja/code-ninja/main/samurai-banner.svg
+
+![clideo_editor_362d46ad46274453b8ddbf751fd693e1](https://github.com/user-attachments/assets/04b9cdf8-d251-4399-b9b1-f906c0d9516f)
 
 <div align="center">
   
