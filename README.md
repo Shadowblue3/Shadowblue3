@@ -234,12 +234,7 @@ console.log("侍魂 — The spirit burns eternal 🔥");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-![GitHub Stats](https://github-stats.omsimos.com/api?username=Shadowblue3&theme=dark)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowblue3&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shadowblue3&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF)
+![](https://nirzak-streak-stats.vercel.app/?user=Shadowblue3&theme=dark&hide_border=false)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadowblue3&custom_title=Shadowblue's%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true" alt="contribution graph">
 
@@ -251,7 +246,7 @@ console.log("侍魂 — The spirit burns eternal 🔥");
 
 ## 🏆 ACHIEVEMENTS — 業績
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowblue3" alt="shadowblue3" /></a> </p>
 
 </div>
 
@@ -259,25 +254,25 @@ console.log("侍魂 — The spirit burns eternal 🔥");
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║              "Code is poetry, bugs are dragons,               ║
-║               and debugging is the warrior's way"             ║
-║                                                               ║
-║                    ⚔️ KEEP CODING ⚔️                         ║
-║                                                               ║
-║                   一生懸命 — With all one's might             ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 <br>
 
 ### 👁️ Profile Views — 訪問者
 
-![Visitor Count](https://profile-counter.glitch.me/Shadowblue3/count.svg)
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=shadowblue3&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="shadowblue3" 
+    width="200"
+  />
+</p>
 
+---
 <br>
 
 ### 🎭 "The master has failed more times than the beginner has even tried."
