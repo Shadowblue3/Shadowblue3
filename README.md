@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <!-- Title -->
 <h1>白いコードの侍 — Shadowblue</h1>
 <p><i>"Code like a calm blade. Precise. Silent. Unstoppable."</i></p>
+
 ![Shadowblue Samurai](https://raw.githubusercontent.com/Shadowblue3/Shadowblue3/main/clideo_editor_362d46ad46274453b8ddbf751fd693e1.gif)
 
 
