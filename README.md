@@ -166,19 +166,7 @@ const samuraiDev = {
 
 ### ⚔️ Legendary Projects Forged in Code ⚔️
 
-```ascii
-        /\
-       /**\          "Every project is a battle,
-      /****\          every bug is an enemy,
-     /******\         every solution is a victory."
-    /********\
-   /**********\              - Code Samurai
-  /____________\
-      |    |
-      |    |
-      |    |
-      |____|
-```
+
 
 <br>
 
