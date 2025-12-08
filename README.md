@@ -254,11 +254,8 @@ console.log("侍魂 — The spirit burns eternal 🔥");
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+
+
 
 <br>
 
@@ -274,6 +271,15 @@ console.log("侍魂 — The spirit burns eternal 🔥");
 
 ---
 <br>
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+</picture>
+ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shadowblue3/Shadowblue3/main/output/pacman-contribution-graph-dark.svg" alt="Pacman Animation" />
+</p>
 
 ### 🎭 "The master has failed more times than the beginner has even tried."
 
